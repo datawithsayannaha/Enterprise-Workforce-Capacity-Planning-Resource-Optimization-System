@@ -1,0 +1,4 @@
+Shift_ID,Shift_Name,Start_Time,End_Time,Standard_Hours,OT_Rate
+1,Morning,6:00,14:00,8,150
+2,Evening,14:00,22:00,8,175
+3,Night,22:00,6:00,8,200

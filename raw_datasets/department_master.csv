@@ -1,0 +1,11 @@
+Department_ID,Department_Name,Location,Department_Budget,Target_Productivity
+1,Operations,Bangalore,36632483,0.79
+2,Warehouse,Hyderabad,14628519,0.79
+3,Sales,Mumbai,26249687,0.79
+4,Customer Support,Hyderabad,49081282,0.81
+5,Finance,Hyderabad,26300885,0.85
+6,IT,Delhi,45959284,0.84
+7,HR,Mumbai,9981505,0.81
+8,Procurement,Mumbai,18953367,0.87
+9,Quality Control,Mumbai,23544107,0.78
+10,Logistics,Hyderabad,9521373,0.81
